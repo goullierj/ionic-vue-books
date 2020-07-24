@@ -34,6 +34,7 @@
                 data: dataBooks,
             }
 
+            return
         },
         methods :{
             deleteBook: function (isbn) {
